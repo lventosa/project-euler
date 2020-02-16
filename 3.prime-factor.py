@@ -7,4 +7,4 @@ def largestPrimeFactor(num, d = 2):
       d = d + 1
   return num
 
-print(largestPrimeFactor(600851475143))
+print(largestPrimeFactor(600851475143)) 
